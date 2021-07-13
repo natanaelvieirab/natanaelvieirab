@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Sobre mim
-
 Meu nome é Natanael Vieira, eu sou estudante universitário e amo programar. Meu foco atualmente é no desenvolvimento back-end, por isso estou estudando o framework NodeJS.
 Mas também tenho conhecimentos básicos em React, Vue.js, HTML, CSS, Java e no Framework Spring. Além disso, tenhos conhecimento de Git, Github e API REST.
 
-### Tecnologias
+### :wrench: Tecnologias
 
 <div style="display: inline_block><br>
  
